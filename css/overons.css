@@ -1,0 +1,19 @@
+#about{
+  border: 2px solid black;
+  border-radius: 8px;
+  margin:8px;
+  border-radius: 20px;
+  font-family: arial;
+}
+#tekst{
+  text-align: center;
+  font-family: arial;
+}
+#socialmedia{
+  margin:20px;
+}
+
+a {
+	padding:5px;
+}
+
